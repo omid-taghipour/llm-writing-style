@@ -1,4 +1,4 @@
-# Absolute + ASD-STE100 Output Style
+# LLM Writing Style
 
 A system prompt that combines **Absolute Mode** with controlled-English rules based on the principles of **ASD-STE100** (Simplified Technical English). It strips filler, hype, emojis, and follow-up prompts. It enforces short, active-voice, single-action sentences and clear structure.
 
